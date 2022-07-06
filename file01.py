@@ -12,4 +12,3 @@ def main(data:str):
     return ans
 
 # Read data from file
-
